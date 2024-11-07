@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AdminXeq/node-cryptonight-hashing.git"
+        "url": "https://github.com/Zuz99/crypto-hashing.git"
     },
     "dependencies": {
         "bindings": "*",

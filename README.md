@@ -1,4 +1,4 @@
-node-cryptonight-hashing
+cryptonight-hashing
 ===============
 
 Cryptonight hashing functions for node.js.
@@ -24,7 +24,7 @@ Algorithms
 Installing locally and testing
 -----
 ```
-JOBS=$(nproc) npm install https://github.com/MoneroOcean/node-cryptonight-hashing
+JOBS=$(nproc) npm install https://github.com/Zuz99/crypto-hashing
 node_modules/cryptonight-hashing/tests/run.sh
 ```
 
